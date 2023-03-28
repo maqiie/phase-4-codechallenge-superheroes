@@ -1,4 +1,4 @@
-##Heroes and Superpowers API
+#Heroes and Superpowers API
 This is an API built using Rails that allows you to track heroes and their superpowers.
 
 ## Deployed Application 
